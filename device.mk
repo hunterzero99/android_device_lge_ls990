@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES += \
     
 # Bluetooth
 PRODUCT_COPY_FILES += \
-    device/lge/g3-common/bluetooth/BCM4339_003.001.009.0079.0339.hcd:system/vendor/firmware/bcm4335c0.hcd
+    device/lge/ls990/bluetooth/BCM4339_003.001.009.0079.0339.hcd:system/vendor/firmware/bcm4335c0.hcd
 
 # GPS
 PRODUCT_COPY_FILES += \
